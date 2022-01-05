@@ -1,0 +1,17 @@
+.focus {
+  margin-left: 100px;
+  text-align: center;
+  width: 50%;
+  height: 420px;
+}
+.focus img {
+  height: 100%;
+}
+.pics {
+  float: left;
+}
+.pics img {
+  padding: 10px 5px;
+  width: 190px;
+  height: auto;
+}
